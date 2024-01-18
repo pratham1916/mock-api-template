@@ -1,0 +1,298 @@
+{
+    "destination":[
+        {
+            "name": "Geoje Island",
+            "description": "An island known for its beautiful coastline, shipbuilding industry, and the historic Oedo-Botania botanical garden.",
+            "location": "Geoje, South Korea",
+            "image": "https://c1.wallpaperflare.com/preview/770/412/29/geoje-korea-sunset-boats.jpg",
+            "price":"149$"
+          },
+          {
+            "name": "Pocheon",
+            "description": "A city surrounded by mountains and lakes, Pocheon is famous for its scenic landscapes, temples, and the Herb Island theme park.",
+            "location": "Pocheon, South Korea",
+            "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0a/a5/d8/65.jpg",
+            "price":"149$"
+          },
+          {
+            "name": "Buyeo",
+            "description": "A city with a rich history, Buyeo is home to historical sites like the Baekje Cultural Land and the Neungsa Temple.",
+            "location": "Buyeo, South Korea",
+            "image": "https://gwangjunewsgic.com/wp-content/uploads/2021/05/Gungnamji-Pond-2_resize.jpg",
+            "price":"149$"
+          },
+          {
+            "name": "Iksan",
+            "description": "Known for its agricultural heritage and historical relics, Iksan features the Mireuksa Temple and the Seodong Park.",
+            "location": "Iksan, South Korea",
+            "image": "https://as2.ftcdn.net/v2/jpg/02/03/86/39/1000_F_203863930_VWTgnXhaSszMpAaYivGhu35C3amLGMsb.jpg",
+            "price":"149$"
+          },
+          {
+            "name": "Namwon",
+            "description": "A city with a romantic atmosphere, Namwon is famous for its scenic gardens, traditional architecture, and the Chunhyang Theme Park.",
+            "location": "Namwon, South Korea",
+            "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474161440.jpg?k=ede3f3ed73140363951b438cd89894683e47396ef7c58136042d5a2886046d5a&o=&hp=1",
+            "price":"149$"
+          },
+          {
+            "name": "Yeongju",
+            "description": "Located near Mount Sobaeksan, Yeongju is known for its historic Buseoksa Temple, ancient relics, and the Sobaeksan National Park.",
+            "location": "Yeongju, South Korea",
+            "image": "https://www.koreattrack.com/images/buseoksa-temple-moving-people-2020.jpg",
+            "price":"149$"
+          },
+          {
+            "name": "Pyeongchang",
+            "description": "Host of the 2018 Winter Olympics, Pyeongchang is a mountainous region known for its ski resorts, Alpensia Resort, and scenic beauty.",
+            "location": "Pyeongchang, South Korea",
+            "image": "https://media.cnn.com/api/v1/images/stellar/prod/170208125706-2-yongpyong-ski-resort-pyeongchang.jpg?q=w_1110,c_fill/f_webp",
+            "price":"149$"
+          },
+          {
+            "name": "Jinhae",
+            "description": "Famous for its cherry blossom festival, Jinhae is a picturesque coastal city with parks, naval attractions, and historic sites.",
+            "location": "Jinhae, South Korea",
+            "image": "https://www.rachelenroute.com/wp-content/uploads/2018/04/DSC_0026-2.jpg",
+            "price":"149$"
+          },
+          {
+            "name": "Gochang",
+            "description": "Known for the UNESCO World Heritage site of Dolmen Sites, Gochang offers a blend of natural beauty and cultural heritage.",
+            "location": "Gochang, South Korea",
+            "image": "https://png.pngtree.com/thumb_back/fh260/background/20231230/pngtree-the-walled-area-of-yongsong-image_13109970.png",
+            "price":"149$"
+          },
+          {
+            "name": "Gapyeong",
+            "description": "A region surrounded by mountains and rivers, Gapyeong is famous for its natural attractions, Nami Island, and the Garden of Morning Calm.",
+            "location": "Gapyeong, South Korea",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/c8/f5/2f/the-garden-of-morningcalm.jpg?w=500&h=300&s=1",
+            "price":"149$"
+          },
+          {
+            "name": "Jeungpyeong",
+            "description": "A county with rural charm, Jeungpyeong features the Chungbuk Cheongju Airport, the Geumsusanseong Fortress, and the Geumsusan Mountain.",
+            "location": "Jeungpyeong, South Korea",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/1c/17/b6/caption.jpg?w=400&h=-1&s=1",
+            "price":"149$"
+          },
+          {
+            "name": "Goesan",
+            "description": "Surrounded by mountains and agricultural landscapes, Goesan is known for the picturesque Sobaeksan Mountain and the Seonunsa Temple.",
+            "location": "Goesan, South Korea",
+            "image": "https://lh3.googleusercontent.com/-Zh0evobMxs0/Wfh1QbBaaXI/AAAAAAAAjt0/QqkcF3VPgAAHG9qcAH5oBtqwGXqycMZFwCHMYCw/s1600/2017-10-31-20-13-16.jpg",
+            "price": "$189"
+          },
+          {
+            "name": "Hongcheon",
+            "description": "A county with natural beauty, Hongcheon features the Vivaldi Park Ski World, the Palbongsan Mountain, and the Hongcheon River.",
+            "location": "Hongcheon, South Korea",
+            "image": "https://q-xx.bstatic.com/xdata/images/hotel/840x460/407763734.jpg?k=30d364aa5f09432431ad1b2f93652b48850c01b2dc2c0e303c0675e95fdcdd44&o=",
+            "price":"149$"
+          },
+          {
+            "name": "Yeoju",
+            "description": "Known for its ceramics and history, Yeoju features the Yeoju Premium Outlets, the Silleuksa Temple, and the Yangji Pine Resort.",
+            "location": "Yeoju, South Korea",
+            "image": "https://ak-d.tripcdn.com/images/ww0i1e000001fin655BE4_C_640_320_R5_Q70.jpg_.webp?proc=source%2Ftrip",
+            "price":"149$"
+          },
+          {
+            "name": "Chungju",
+            "description": "Situated by Chungju Lake, Chungju features the Danyangho Lake, the Jungangtap Munhwa Street, and the Sangdangsanseong Fortress.",
+            "location": "Chungju, South Korea",
+            "image": "https://www.shutterstock.com/image-photo/aerial-view-alligator-island-on-600nw-1676648869.jpg",
+            "price":"149$"
+          },
+          {
+            "name": "Hamyang",
+            "description": "A county known for its scenic beauty, Hamyang features the Dalmasa Temple, the Sancheong Medicinal Herb Theme Park, and the Jirisan National Park.",
+            "location": "Hamyang, South Korea",
+            "image": "https://youimg1.tripcdn.com/target/01027120008x80lmeA2EF_C_640_320_R5_Q70.jpg_.webp",
+            "price":"149$"
+          },
+          {
+            "name": "Ganghwa Island",
+            "description": "An island with historical sites, Ganghwa features the Ganghwa Dolmen Sites, the Ganghwa Peace Observatory, and the Bomunsa Temple.",
+            "location": "Ganghwa, South Korea",
+            "image": "https://www.mustseespots.com/south-korea/img/ganghwado-2.jpg",
+            "price":"149$"
+          },
+          {
+            "name": "Namhae",
+            "description": "A coastal town known for its stunning landscapes, Namhae features the Namhae German Village, the Boriam Temple, and the Sangju Beach.",
+            "location": "Namhae, South Korea",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Noryang_Bridge_and_Namhae_Bridge_aerial.jpg",
+            "price":"149$"
+          },
+          {
+            "name": "Yeongdeok",
+            "description": "A coastal city with seafood delights, Yeongdeok features the Yeongdeok Blue Road, the Jukdobong Park, and the Gosu Cave.",
+            "location": "Yeongdeok, South Korea",
+            "image": "https://example.com/yeongdeok.jpg",
+            "price":"149$"
+          },
+          {
+            "name": "Buan",
+            "description": "Known for its scenic countryside, Buan features the Byeonsanbando National Park, the Gyeongpo Beach, and the Byeonsan Peninsula.",
+            "location": "Buan, South Korea",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Naesosa_Iljumun_13-04634_-_Buan-gun%2C_Jeollabuk-do%2C_South_Korea.JPG",
+            "price":"149$"
+          },
+          {
+            "name": "Seosan",
+            "description": "A city with a mix of history and coastal charm, Seosan features the Taeanhaean National Park, the Sorae Fish Market, and the Haemi Fortress.",
+            "location": "Seosan, South Korea",
+            "image": "https://example.com/seosan.jpg",
+            "price":"149$"
+          },
+          {
+            "name": "Yeongju",
+            "description": "Located near Mount Sobaeksan, Yeongju is known for its historic Buseoksa Temple, ancient relics, and the Sobaeksan National Park.",
+            "location": "Yeongju, South Korea",
+            "image": "https://example.com/yeongju.jpg",
+            "price":"149$"
+          },
+          {
+            "name": "Boryeong",
+            "description": "Famous for its mud festival, Boryeong features the Daecheon Beach, the Boryeong Fish Market, and the Geumgang Lake.",
+            "location": "Boryeong, South Korea",
+            "image": "https://example.com/boryeong.jpg",
+            "price":"149$"
+          },
+          {
+            "name": "Seosan",
+            "description": "A coastal city with historical sites, Seosan features the Haemi Martyrdom Holy Ground, the Mallipo Beach, and the Haemi Traditional Culture Village.",
+            "location": "Seosan, South Korea",
+            "image": "https://example.com/seosan2.jpg",
+            "price":"149$"
+          },
+          {
+            "name": "Incheon",
+            "description": "Incheon is a bustling port city known for its modern architecture, vibrant Chinatown, and the Incheon Grand Park.",
+            "location": "Incheon, South Korea",
+            "image": "https://example.com/incheon.jpg",
+            "price":"149$"
+          },
+          {
+            "name": "Jeonju",
+            "description": "Famous for its traditional Hanok village, Jeonju is a city rich in cultural heritage, offering delectable bibimbap and unique crafts.",
+            "location": "Jeonju, South Korea",
+            "image": "https://img.freepik.com/premium-photo/gyeongbokgung-palace-with-lot-people-seoul-south-korea_174052-141.jpg?size=626&ext=jpg&ga=GA1.1.294073576.1705593772&semt=ais",
+            "price":"149$"
+          },
+          {
+            "name": "Gimhae",
+            "description": "Home to the ancient royal tomb of King Suro, Gimhae boasts historical sites, including the Gimhae National Museum and the Royal Tomb of Queen Heo Hwang-ok.",
+            "location": "Gimhae, South Korea",
+            "image": "https://example.com/gimhae.jpg",
+            "price":"149$"
+          },
+          {
+            "name": "Suwon",
+            "description": "Suwon is renowned for its well-preserved Hwaseong Fortress, traditional markets, and the Korean fried chicken street.",
+            "location": "Suwon, South Korea",
+            "image": "https://img.freepik.com/premium-photo/korea-landmark-park-after-sunset-traditional-architecture-suwon-hwaseong-fortress-sunset-south-korea_174052-4.jpg?w=826",
+            "price":"149$"
+          },
+          {
+            "name": "Mokpo",
+            "description": "Nestled in the southwestern part of South Korea, Mokpo is a coastal city known for its historical sites, vibrant ports, and seafood delicacies.",
+            "location": "Mokpo, South Korea",
+            "image": "https://www.insideasiatours.com/sites/default/files/styles/carousel_desktop/public/2023-02/Yudalsan-mountain-Mokpo-shutterstock.webp?itok=3jtB6rBK",
+            "price":"149$"
+          },
+          {
+            "name": "Gwangju",
+            "description": "Gwangju is a cultural hub with a rich history, art scenes, and the beautiful May 18th National Cemetery commemorating the Gwangju Uprising.",
+            "location": "Gwangju, South Korea",
+            "image": "https://example.com/gwangju.jpg",
+            "price":"149$"
+          },
+          {
+            "name": "Jeju Island",
+            "description": "A picturesque volcanic island, Jeju is famous for its natural wonders, waterfalls, Hallasan Mountain, and the Manjanggul Cave.",
+            "location": "Jeju, South Korea",
+            "image": "https://a.cdn-hotels.com/gdcs/production155/d1970/076d9188-3e19-423e-aa30-853f14ba9262.jpg",
+            "price":"149$"
+          },
+          {
+            "name": "Andong",
+            "description": "Known for its traditional Hahoe Folk Village and the historic Andong Mask Dance Festival, Andong is a city preserving Korean cultural heritage.",
+            "location": "Andong, South Korea",
+            "image": "https://example.com/andong.jpg",
+            "price":"149$"
+          },
+          {
+            "name": "Yangyang",
+            "description": "A coastal town with beautiful beaches, Yangyang is a popular destination for surfing, seafood, and scenic landscapes.",
+            "location": "Yangyang, South Korea",
+            "image": "https://example.com/yangyang.jpg",
+            "price":"149$"
+          },
+          {
+            "name": "Suncheon",
+            "description": "Famous for the Suncheon Bay Wetland Reserve, Suncheon is a city with lush gardens, historical sites, and the Naganeupseong Folk Village.",
+            "location": "Suncheon, South Korea",
+            "image": "https://i0.wp.com/roamad.blog/wp-content/uploads/2021/07/20210430-Suncheon-045.jpg?ssl=1",
+            "price":"149$"
+          },
+          {
+            "name": "Gurye",
+            "description": "Nestled in the mountains, Gurye is known for its hot springs, the scenic Jirisan National Park, and the picturesque Boseong Green Tea Fields.",
+            "location": "Gurye, South Korea",
+            "image": "https://example.com/gurye.jpg",
+            "price":"149$"
+          },
+          {
+            "name": "Jeongseon",
+            "description": "A county surrounded by mountains, Jeongseon features the scenic Jeongseon Arirang Street, the Samtan Art Mine, and the thrilling Jeongseon Alpine Centre.",
+            "location": "Jeongseon, South Korea",
+            "image": "https://example.com/jeongseon.jpg",
+            "price":"149$"
+          },
+          {
+            "name": "Cheongju",
+            "description": "Known for its historical sites like the Sangdangsanseong Fortress, Cheongju is a city with cultural heritage, museums, and the vibrant Munui Cultural Properties Street.",
+            "location": "Cheongju, South Korea",
+            "image": "https://example.com/cheongju.jpg",
+            "price":"149$"
+          },
+          {
+            "name": "Yeouido",
+            "description": "A large island in the Han River, Yeouido is Seoul's financial district, featuring the Yeouido Park, National Assembly Building, and the cherry blossom festival.",
+            "location": "Yeouido, Seoul, South Korea",
+            "image": "https://twomonkeystravelgroup.com/wp-content/uploads/2016/05/Yeouido-Island-6-800x450.jpg",
+            "price":"149$"
+          },
+          {
+            "name": "Naju",
+            "description": "Known for its scenic landscapes and the Mudeungsan Mountain, Naju offers a blend of natural beauty and cultural attractions.",
+            "location": "Naju, South Korea",
+            "image": "https://c0.wallpaperflare.com/preview/56/643/736/south-korea-naju-si-tree-spring.jpg",
+            "price":"149$"
+          },
+          {
+            "name": "Pohang",
+            "description": "A coastal city with industrial significance, Pohang features the Jukdo Market, Homigot Sunrise Square, and the Oryukdo Skywalk.",
+            "location": "Pohang, South Korea",
+            "image": "https://example.com/pohang.jpg",
+            "price":"149$"
+          },
+          {
+            "name": "Daejeon",
+            "description": "A major science and technology hub, Daejeon boasts research institutes, universities, and the scenic Expo Park.",
+            "location": "Daejeon, South Korea",
+            "image": "https://example.com/daejeon.jpg",
+            "priceRange": "$250"
+          },
+          {
+            "name": "Icheon",
+            "description": "Known for its traditional ceramics, Icheon features the Gyeonggi Ceramic Museum, the Seolbong Park, and the Icheon Hot Springs.",
+            "location": "Icheon, South Korea",
+            "image": "https://example.com/icheon.jpg",
+            "price":"149$"
+          }
+    ]
+}
